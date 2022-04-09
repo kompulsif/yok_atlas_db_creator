@@ -7,7 +7,7 @@
 ***
 
 ## Usage:
-* `python uni_lister.py --driver "driver path" --database "database name or path" --cooldown cooldownvalue --quit valueforquit
+* `python uni_lister.py --driver "driver path" --database "database name or path" --cooldown cooldownvalue --quit valueforquit`
 
 * Mandatory parameters:
     - `--driver`
